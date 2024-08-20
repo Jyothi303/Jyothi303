@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jyothi Achanta
-- 👀 I’m interested in AI
+- 👀 I’m currently learning Python and exploring the world of Artificial Intelligence.
 - 📫 How to reach me jyothialluri303@gmail.com
 
 
